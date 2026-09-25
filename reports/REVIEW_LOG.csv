@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0187.jpg,xe tối màu chỉ thấy đèn,added,Thân xe tối nhưng đoán được đường viền; vẽ box phần thân quanh cụm đèn
+1,frame_0331.jpg,vệt sáng trên mặt đường,deleted,Nhận nhầm ánh đèn phản chiếu trên mặt đường; không gán nhãn
+1,frame_0326.jpg,xe nhìn rõ thân,edited,Box AI ôm cả vệt sáng đèn pha chiếu xuống đường; sửa lại ôm sát thân xe
